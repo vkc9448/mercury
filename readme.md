@@ -1,4 +1,22 @@
+```yaml
+milestone:
+    iteration: 05
+    title: "Performance and Refactoring"
+    date: "April 9, 2021"
+group:
+    number: 06
+    name: "Mercury- The Data Delivery System"
+    members:
+    - "Vincent Cheng"
+    - "Dishant Mishra"
+```  
+  
 # Mercury - The Data Delivery System
+## Project Requirement
+- 24/7 Shared Server
+- Relational Database 
+- API Queries
+- Object-Oriented Programming Language 
 
 ## Performance
 
